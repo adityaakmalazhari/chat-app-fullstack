@@ -2,13 +2,17 @@
 Aplikasi chat yang dibuat menggunakan react js untuk front-end dan laravel untuk back-end. Aplikasi ini diintegrasikan menggunakan OPENAI API sehingga dapat membuat CHATGPT kita sendiri
 
 ![1](https://github.com/adityaakmalazhari/chat-app-fullstack/assets/93767825/cfa7060e-bc9f-44e3-b0b8-a6d3e4a0bd84)
+
 Tampilan login
 
 ![2](https://github.com/adityaakmalazhari/chat-app-fullstack/assets/93767825/6f0c2f4d-1221-4f6f-a7c7-6a0cd4e93cdc)
+
 Tampilan Signup
+
 ![3](https://github.com/adityaakmalazhari/chat-app-fullstack/assets/93767825/7edbc2a7-898c-4fcb-9a5b-34a8ab8f9bd8)
 
 ![4](https://github.com/adityaakmalazhari/chat-app-fullstack/assets/93767825/aa5f185d-8041-4fe4-a6d7-c0d56e607378)
+
 Tampilan Chat-App dengan AI
 
 ## Teknologi yang Digunakan
