@@ -1,4 +1,4 @@
-### Chat-App Fullstack React + Laravel + OPEN AI API (CHATGPT CLONE)
+# Chat-App Fullstack React + Laravel + OPEN AI API (CHATGPT CLONE)
 Aplikasi chat yang dibuat menggunakan react js untuk front-end dan laravel untuk back-end. Aplikasi ini diintegrasikan menggunakan OPENAI API sehingga dapat membuat CHATGPT kita sendiri
 
 ![1](https://github.com/adityaakmalazhari/chat-app-fullstack/assets/93767825/cfa7060e-bc9f-44e3-b0b8-a6d3e4a0bd84)
