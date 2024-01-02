@@ -51,7 +51,7 @@ Saat ini aplikasi masih dalam tahap development dan akan diupdate secara berkala
 ## Back-end
 ### Using Docker
 - Masuk ke directory back-end dan silahkan buat file .env menggunakan salinan .env-example
-- Silahkan atur port, database host, name, password, dan user sesuai keinginan anda
+- Silahkan atur port, db host, db name, db password, db user, dan OPENAI_API_KEY sesuai dengan preferensi anda
 - Selanjutnya masukan command berikut di terminal
 ```
 ./vendor/bin/sail up -d
