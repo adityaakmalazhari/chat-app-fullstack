@@ -57,3 +57,12 @@ Saat ini aplikasi masih dalam tahap development dan akan diupdate secara berkala
 ./vendor/bin/sail up -d
 ./vendor/bin/sail artisan migrate:fresh
 ```
+
+### Using PHP
+- Masuk ke directory back-end dan silahkan buat file .env menggunakan salinan .env-example
+- Silahkan atur port, db host, db name, db password, db user, dan OPENAI_API_KEY sesuai dengan preferensi anda
+- Selanjutnya masukan command berikut di terminal
+```
+php artisan migrate:fresh
+php artisan serve
+```
